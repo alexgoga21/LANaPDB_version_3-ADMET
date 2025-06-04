@@ -1,0 +1,2 @@
+Because of the size of the file, the three databases with their calculated ADMET properties are just available at the ZENODO repository,
+which has the following DOI. DOI: 10.5281/zenodo.15595031
